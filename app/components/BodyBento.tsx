@@ -76,7 +76,7 @@ function BodyBento() {
                 <Text style={styles.darkButtonText}>Ver Rutinas</Text>
               </TouchableOpacity>
             </Link>
-            <Link href="/routines/rutinesInsert" asChild>
+            <Link href="/routines/routinesInsert" asChild>
               <TouchableOpacity style={styles.darkButton}>
                 <Text style={styles.lightButtonText}>Crea tu Rutina</Text>
               </TouchableOpacity>
